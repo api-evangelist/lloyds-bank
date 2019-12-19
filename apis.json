@@ -1,0 +1,73 @@
+{
+    "name": "Lloyds Bank",
+    "description": "<p>Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the \"Big Four\" clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/lloyds_bank.png",
+    "tags": [
+        "api provider",
+        "banking",
+        "financial services",
+        "general data",
+        "have api",
+        "relative data",
+        "uk banks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lloyds-bank\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Lloyds Bank",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/lloyds_bank.png",
+            "humanURL": "https:\/\/lloydsbank.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/lloyds-bank.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lloyds-bank-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lloyds-bank-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lloyds-tsb-group"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.lloydsbank.com\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/developer.lloydsbank.com\/opendata-v2"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/developer.lloydsbank.com\/faq-page"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "https:\/\/developer.lloydsbank.com\/terms"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/AskLloydsTSB"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/lloydsbank.com"
+        }
+    ]
+}
