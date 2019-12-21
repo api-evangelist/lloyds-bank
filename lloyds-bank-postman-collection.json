@@ -1,5 +1,5 @@
 {
-    "id": "7e58726305fd2b694a0ffbc438590bcd",
+    "id": "2f699dbf9fa76153af2f82f33088c476",
     "name": "Lloyds Bank",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "278d3072b350b4806f4de89d24f0847e",
+            "id": "fb608a694d763cffb0d90652757ed800",
             "name": "Get ATMs",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         },
         {
-            "id": "2fafead1cb3147c67fb4f4896b06137f",
+            "id": "919cd323dc03e6544b9d13d2d32492e2",
             "name": "Get Branches",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         },
         {
-            "id": "9ae97194693f904fe00c8d1176e86dc4",
+            "id": "7f35cadaf3850b3e53a73f63280e6fc7",
             "name": "Get Current Personal Accounts",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         },
         {
-            "id": "19e652370883cb8ded2033863113516f",
+            "id": "d3ecf55d14bd025538fb406fd920b8bc",
             "name": "Get Current Business Accounts",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/business-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         },
         {
-            "id": "223005c39d011f5bde18157d8129f9f5",
+            "id": "404a066f1bdfcf4fe50e7c900fd8acd1",
             "name": "Get Unsecured SME Loans",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/unsecured-sme-loans\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         },
         {
-            "id": "7ad92a85742be5b24f93ff5eff1da648",
+            "id": "d26748718b7ccecb43f6ccdae0faf51d",
             "name": "Get Commercial Credit Cards",
             "url": "httpsapi.lloydsbank.comopen-banking\/v2.1\/commercial-credit-cards\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
@@ -144,7 +144,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "7e58726305fd2b694a0ffbc438590bcd",
+            "collectionId": "2f699dbf9fa76153af2f82f33088c476",
             "rawModeData": ""
         }
     ]
